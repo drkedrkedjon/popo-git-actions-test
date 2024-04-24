@@ -1,2 +1,1 @@
-# popo-git-actions-test
-.
+# popo-git-actions-test.
